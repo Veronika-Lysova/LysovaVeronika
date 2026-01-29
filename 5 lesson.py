@@ -10,4 +10,5 @@ student = { }
 student ["name"] = "Алексей"
 student ["age"] = 20
 student ["city"] = "Москва"
+
 print(student)
